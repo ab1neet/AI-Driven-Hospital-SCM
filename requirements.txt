@@ -1,0 +1,13 @@
+dash
+flask
+folium
+geopy
+matplotlib
+neuralprophet
+numpy
+pandas
+plotly
+requests
+scikit-learn
+scipy
+statsmodels
