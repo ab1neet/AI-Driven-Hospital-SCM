@@ -1,6 +1,6 @@
-# Hospital Supply Chain Management System
+# Hospital Supply Chain Risk Management System
 
-An intelligent **hospital supply chain management system** that integrates machine learning, optimization, and visualization to improve decision-making in medical supply logistics.
+An intelligent **hospital supply chain risk management system** that integrates machine learning, optimization, and visualization to improve decision-making in medical supply logistics.
 
 ## 📌 Project Overview
 This application provides a unified platform for:
@@ -74,9 +74,6 @@ Additional requirements:
 - Supplier risk heatmaps
 - Demand forecast curves with confidence bands
 - Interactive route maps (Folium)
-
-## 🤝 Contributing
-Contributions are welcome! Please fork the repo, create a branch, and submit a PR.
 
 ## 📜 License
 This project is licensed under the MIT License.
