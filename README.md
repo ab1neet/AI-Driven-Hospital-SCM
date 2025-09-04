@@ -28,7 +28,7 @@ This application provides a unified platform for:
 ├── route_opt.py          # Route optimization with APIs
 ├── visual.py             # Visualization utilities
 ├── config.py             # Config file (API keys, dataset paths)
-├── datasets/             # Medicine, supply chain, and inventory data
+├── dataset/             # Medicine, supply chain, and inventory data
 ```
 
 ## ⚙️ Requirements
